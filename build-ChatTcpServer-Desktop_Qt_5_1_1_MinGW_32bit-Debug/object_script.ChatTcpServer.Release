@@ -1,0 +1,15 @@
+INPUT(
+./release/main.o
+./release/mainwindow.o
+./release/chatserver.o
+./release/clienteconnection.o
+./release/chatsocket.o
+./release/package.o
+./release/sendmessagepackage.o
+./release/receivemessagepackage.o
+./release/moc_mainwindow.o
+./release/moc_chatserver.o
+./release/moc_chatsocket.o
+./release/moc_package.o
+./release/moc_receivemessagepackage.o
+);
